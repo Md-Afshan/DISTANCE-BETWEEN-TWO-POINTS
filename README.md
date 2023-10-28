@@ -29,3 +29,4 @@ print("{:.2f}".format(d))
 ![output](/distance.png)
 
 ### RESULT:
+Thus, the program for distance between two points is executed successfully.
